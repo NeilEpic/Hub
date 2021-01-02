@@ -3,10 +3,4 @@ local Froggo = {
 "456"
 }
 --------------------------------
-[[ HASHING COMING SOON
-function SecureHash(whh)
---[[ Hasher (Obfuscated with Froggo's Obfuscator) The password IS hidden so you cannot see it]] pcall(function() if whh==nil or whh==false then return; end; return "i[0][Froggo_Obfuscator]"..loadstring("print'Froggo Hub Hasher Loaded!'").."?".."IO[_?toHash=whh|APILINK='froggo.xyz/FroggoHub/write.php'|PASS=NOT.Visible|PASS=|H|I|D|D|E|N'|API(GETSTRING_'Secure_Hash'_'&Pas=secure_HASH(API,PASS)')]".."UIRHWNJHDHSJYJHAHJWIUQJHGSBDNJHGQBNJHYDGBNJHYTGDHWGFVDBNHFVBJUYHUJJHGWHJYHJDHGVWBNJDUYGVBNJHGFGHSJATHJDHGWHJQHGHDJHYTQYUWDUYTQGBNDJUYQDHJQWUYDGBDGTSGHJDUYQHJUY".."i[0]return;pcall(gsub(1,2,3))"
-end)
-end
-]]
 return Froggo; -- Dont change this or the hub will break!
