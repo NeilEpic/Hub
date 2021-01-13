@@ -1,6 +1,0 @@
-local Froggo = {
-"TESTKEY1",
-"TESTKEY2"
-}
---------------------------------
-return Froggo; -- Dont change this or the hub will break!
